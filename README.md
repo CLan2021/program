@@ -8,10 +8,10 @@ My program will provide both a API and CLI interface for aggregating historical 
 ### Description of the code:
 (It's fine to say you are not sure yet...)  
 I will one class object for extracting data from online, and another class object for analyzing the data and producing plots.
-list any packages you can find online which you may use:
-`pandas`: to organize and analyze data.
-`toyplot`: to generate line plots.
-`folium`: to generate map plots.
+list any packages you can find online which you may use:  
+`pandas`: to organize and analyze data.  
+`toyplot`: to generate line plots.  
+`folium`: to generate map plots.  
 
 ### Description of the data:
 I will access data programatically from a public online database using a REST API framework. 
